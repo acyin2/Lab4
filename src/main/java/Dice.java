@@ -10,7 +10,7 @@ import java.util.Random;
  * @see <a href="https://english.stackexchange.com/questions/167104/singular-of-dice"> Dice is
  *      Singular of Dice</a>
  */
-public class Dice {
+public class  Dice {
 
     /** Private random number generator. */
     Random myRand;
